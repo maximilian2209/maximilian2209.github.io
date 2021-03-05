@@ -1,4 +1,5 @@
-# This is my first website
+# This is my first website ever 
+# I wanted to create this website to talk about my favorite brand of sportscars _Mclaren_ 
 
 this is my first website about Cars. I like sports cars. Ever since I was a child I loved cars. My dream is to own a sportscar one day. Preferably a Mclaren. I like Mclaren because it uses the Formula 1 technology for their sportscars so that they can compete with Ferrari, Lamborghini etc. 
 
@@ -9,6 +10,9 @@ this is my first website about Cars. I like sports cars. Ever since I was a chil
 ![car](ron-mcclenny-nhj62BOmGGw-unsplash.jpg)
 
 # Mclaren is the best
+Everyone loves it. 
+
+
 
 
 
